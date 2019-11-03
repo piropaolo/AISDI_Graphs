@@ -1,4 +1,4 @@
-# AISDI_Graphs
+# aisdi-graphs
 Implementation of graphs &amp; isomorphism checker for AISDI classes at WUT
 
 Repository for third AISDI project: Graphs
